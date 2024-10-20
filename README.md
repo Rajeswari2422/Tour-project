@@ -33,4 +33,4 @@ To get started with this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/yourusername/tour-and-travel.git](https://rajeswari2422.github.io/Tour-project/)
+   (https://rajeswari2422.github.io/Tour-project/)
